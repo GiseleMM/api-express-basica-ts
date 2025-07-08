@@ -1,8 +1,4 @@
-Gracias por compartir tu markdown. A continuación, te presento una versión corregida, explicada y mejor estructurada, lista para usar como `README.md` en tu proyecto de una API básica con Node.js, TypeScript y Express.
 
----
-
-````markdown
 # API Básica con Node.js, TypeScript y Express
 
 Este proyecto muestra cómo crear una API REST básica utilizando **Node.js**, **TypeScript**, **Express** y otras herramientas útiles como **CORS** y **dotenv**.
